@@ -1,0 +1,8 @@
+##### LOCAWEB - NAO REMOVER #####
+AddHandler php7-script .php
+suPHP_ConfigPath /home/hq-innit/
+##### LOCAWEB - NAO REMOVER #####
+
+allow_url_fopen = On
+
+allow_url_include = On

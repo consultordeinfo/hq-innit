@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01/02/2018, 18:56:12
+    Author     : helio
+*/
+
+@media screen and (max-width: 420px){
+
+    .fontes_head{
+        color: #A9ABAE;
+        font-family: arial;
+        font-size: 12px;
+    }
+
+    .fontes_alert{
+        color: white;
+        font-family: arial;
+        font-size: 13px;
+    }
+
+    .fontes_chamada{
+        color: #a8cf45fe;
+        font-family: arial;
+        font-size: 18px;
+    }
+
+    .fontes_telefones{
+        color: red;
+        font-family: arial;
+        font-size: 16px;
+    }
+
+    .fontes_footer{
+        font-family: arial;
+        font-size: 13px;
+        color: #FF2C00;
+        margin-bottom: 10px;
+
+    }
+
+    .tabela{
+        width: 470px;
+        text-align: center;
+        margin: auto;
+        padding: auto;
+        border: 0;
+    }
+
+    .imagem{
+        width: 470px;
+    }
+
+    #bordas_head{
+        border-radius: 10px 10px 0 0;
+    }
+    #bordas_food{
+        border-radius: 0 0 10px 10px;
+    }
+
+    .barra{
+        width: 350px;
+        border: 1px solid #a8cf45fe;
+    }
+}
